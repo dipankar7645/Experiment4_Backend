@@ -1,0 +1,8 @@
+{"name":"sonu kumar","email":"kumardipankar1109@gmail.com","password":"12345678"}
+{"name":"kartik","email":"kartik45@gmail.com","password":"12345678"}
+{"name":"raju kumar","email":"kumardipankar1109@gmail.com","password":"12345678"}
+{"name":"molu","email":"kumardipankar1109@gmail.com","password":"12345678"}
+{"name":"satvik","email":"satvik1109@gmail.com","password":"998877"}
+{"name":"prabhakar Kumar","email":"prabhakar56@gmail.com","password":"12345678"}
+{"name":"satyam raj","email":"satyam345@gmail.com","password":"12345678"}
+{"name":"Dipankar Kumr","email":"kumardipankar1109@gmail.com","password":"12345678"}
